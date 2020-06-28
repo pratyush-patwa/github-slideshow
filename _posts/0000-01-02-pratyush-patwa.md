@@ -1,5 +1,6 @@
-layout: slide
-title: "Welcome to our second slide!"
 ---
-Hello Everyone
-Github is Cool!
+layout: slide
+title: "Hi I am Pratyush Patwa"
+---
+
+I am a Computer Science Student From India
